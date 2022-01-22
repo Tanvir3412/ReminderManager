@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">GLM</string>
+    <string name="CreateList">Create List</string>
+    <string name="ReminderName">Reminder Name:</string>
+    <string name="ReminderType">Reminder Type:</string>
+    <string name="EnterDate">Enter Date:</string>
+    <string name="EnterTime">Enter Time:</string>
+    <string name="save">Save</string>
+    <string name="EnterName">Enter List Name</string>
+    <string name="RepeatDaily">Repeat Daily</string>
+    <string name="EnterType">Enter Type</string>
+    <string name="LocationBased">Location Based</string>
+    <string name="ListName">List Name:</string>
+    <string name="EditList">Edit List</string>
+    <string name="SaveList">Save List</string>
+    <string name="CreateReminder">Create New Reminder</string>
+    <string name="SelectTime">Select Time</string>
+    <string name="SelectDate">Select Date</string>
+    <string name="ReminderDescription">Reminder Description:</string>
+    <string name="EnterDescription">Write a Description</string>
+    <string name="todo">TODO</string>
+    <string name="Reminder">Reminder</string>
+    <string name="reminder_time">Reminder Time:</string>
+    <string name="time">Time</string>
+    <string name="reminder_date">Reminder Date:</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="type">Type</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="reminder_repeats">Reminder Repeats:</string>
+    <string name="EnterReminderName">Enter Reminder Name</string>
+    <string name="select_repeat">Select Repeat:</string>
+    <string name="reminder_location">Reminder Location:</string>
+    <string name="select_location">Select Location</string>
+    <string name="none">None</string>
+    <string name="daily">Daily</string>
+    <string name="yearly">Yearly</string>
+    <string name="monthly">Monthly</string>
+    <string name="weekly">Weekly</string>
+    <string name="show_location">Show Location</string>
+    <string name="select_existing_reminder">Select Existing Reminder</string>
+    <string name="select">Select</string>
+
+    <string-array name="ReminderNames">
+        <item>Name1</item>
+        <item>Name2</item>
+        <item>Name3</item>
+    </string-array>
+
+    <string-array name="ReminderTypes">
+        <item>Type1</item>
+        <item>Type2</item>
+        <item>Type3</item>
+    </string-array>
+</resources>
